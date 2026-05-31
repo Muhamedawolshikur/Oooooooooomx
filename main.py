@@ -25,7 +25,7 @@ def run_flask():
 threading.Thread(target=run_flask, daemon=True).start()
 
 # ================= BOT CONFIGURATION =================
-BOT_TOKEN = "8896468531:AAGG-6Psr35XmWT33cu3Yev7y5hKDc_6drw"
+BOT_TOKEN = "8896468531:AAHsh9keHczTFVbY-O6foSTdViv9W6Ca858"
 OWNER_ID = 8700421304       
 
 STORAGE_DIR = "user_files"
